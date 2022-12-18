@@ -3,24 +3,28 @@
       "id": 1,
       "name": "product 1",
       "price": 10.99,
-      "imgUrl": "/images/product1.jpeg"
+      "imgUrl": "/images/product1.jpeg", 
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus modi neque obcaecati a asperiores architecto tempore voluptas officiis at vitae aliquam recusandae culpa laboriosam, sint maiores quod dicta quo incidunt. Et ex dicta at aliquam aut. Pariatur molestias magni beatae, cupiditate voluptatibus, exercitationem est voluptates molestiae consectetur hic facere? Accusantium."
     },
     {
       "id": 2,
       "name": "product 2",
       "price": 1199,
-      "imgUrl": "/images/product2.jpeg"
+      "imgUrl": "/images/product2.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus modi neque obcaecati a asperiores architecto tempore voluptas officiis at vitae aliquam recusandae culpa laboriosam, sint maiores quod dicta quo incidunt. Et ex dicta at aliquam aut. Pariatur molestias magni beatae, cupiditate voluptatibus, exercitationem est voluptates molestiae consectetur hic facere? Accusantium."
     },
     {
       "id": 3,
       "name": "product 3",
       "price": 1.05,
-      "imgUrl": "/images/product3.webp"
+      "imgUrl": "/images/product3.webp",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus modi neque obcaecati a asperiores architecto tempore voluptas officiis at vitae aliquam recusandae culpa laboriosam, sint maiores quod dicta quo incidunt. Et ex dicta at aliquam aut. Pariatur molestias magni beatae, cupiditate voluptatibus, exercitationem est voluptates molestiae consectetur hic facere? Accusantium."
     },
     {
       "id": 4,
       "name": "product 4",
       "price": 14000,
-      "imgUrl": "/images/product4.webp"
+      "imgUrl": "/images/product4.webp",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus modi neque obcaecati a asperiores architecto tempore voluptas officiis at vitae aliquam recusandae culpa laboriosam, sint maiores quod dicta quo incidunt. Et ex dicta at aliquam aut. Pariatur molestias magni beatae, cupiditate voluptatibus, exercitationem est voluptates molestiae consectetur hic facere? Accusantium."
     }
   ]

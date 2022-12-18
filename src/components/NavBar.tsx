@@ -8,7 +8,6 @@ const NavBar = () => {
       <Container>
         <Nav className='me-auto'>
             <Nav.Link to="/" as={NavLink}>Home</Nav.Link>
-            <Nav.Link to="/details" as={NavLink}>Details</Nav.Link>
         </Nav>
         <Button style={{ width: "50px" , height: "50px" , position: 'relative' }} variant="outline-primary" className="rounded-circle" >
         <svg
